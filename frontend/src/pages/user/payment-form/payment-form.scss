@@ -1,0 +1,24 @@
+.payment-form {
+   padding: 0 4rem;
+   margin-top: 3rem;
+   margin-bottom: 6rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+
+   .payment-form__container {
+      width: 60%;
+      border-radius: 0.25rem;
+      box-shadow: 0 0 1rem var(--lime-green-color);
+      padding: 2rem;
+
+      .payment-form__submit-button {
+         position: relative;
+         left: 50%;
+         transform: translateX(-50%);
+         min-width: 8rem;
+      }
+   }
+
+}

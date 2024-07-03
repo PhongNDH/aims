@@ -1,0 +1,18 @@
+.manager-order-wrap {
+   margin: 1rem auto 10rem auto;
+   width: 80%;
+
+   .manager-order {
+      max-height: 68vh;
+      overflow: auto;
+
+      .manager-order__body {
+         background-color: var(--dark-green-color);
+         border-radius: 0.5rem;
+         color: white;
+         padding: 1rem 4rem;
+
+      }
+
+   }
+}

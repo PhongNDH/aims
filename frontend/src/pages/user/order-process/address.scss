@@ -1,0 +1,34 @@
+.address {
+   margin-top: 2rem;
+
+   .address__choice {
+      display: flex;
+      margin-bottom: 2rem;
+      justify-content: space-between;
+      // background-color: red;
+      padding: 1rem;
+      border-radius: 0.25rem;
+      // box-shadow: 0 0 0.75rem var(--dark-green-color);
+      border: 1px solid var(--lime-green-color);
+
+   }
+
+   .address__choice-hover {
+      transition: transform 0.3s ease-in-out;
+      // box-shadow: 0 0 1rem var(--dark-green-color);
+
+
+      &:hover {
+         cursor: pointer;
+      }
+
+   }
+
+   .address__button {
+      max-width: 10rem;
+
+      button {
+         min-width: 5rem
+      }
+   }
+}

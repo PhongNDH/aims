@@ -1,0 +1,27 @@
+.product {
+   padding: 0rem 4rem 6rem;
+
+   .product__type {
+      font-size: 1rem;
+      font-weight: 600;
+   }
+
+   // .product__name {}
+
+   .product__image {
+      position: relative;
+      top: -2rem;
+      width: 70%;
+      
+      .carousel-inner {
+         border-radius: 0.25rem;
+
+         img {
+            border-radius: 0.25rem !important;
+         }
+
+      }
+
+
+   }
+}

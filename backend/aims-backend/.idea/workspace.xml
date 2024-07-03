@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="534c5967-3c3d-491e-ab20-5900c41a5035" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Books.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Books.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/CDLPs.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/CDLPs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/DVDs.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/DVDs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/DeliveryInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/DeliveryInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/OrderProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/OrderProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/ShippingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/ShippingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/TransactionInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/entities/TransactionInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/main/java/org/example/aims/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/test/java/org/example/aims/ProductControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/test/java/org/example/aims/ProductControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/src/test/java/org/example/aims/ProductServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/aims/src/test/java/org/example/aims/ProductServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Orders.class" beforeDir="false" afterPath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Orders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Product$ProductBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Product$ProductBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/aims/target/classes/org/example/aims/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aims/target/classes/org/example/aims/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/aims/target/classes/org/example/aims/service/ProductServiceImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="lmphuc/database" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tiuphun&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tiuphun/ISD.ICT.20232.16&quot;,
+    &quot;accountId&quot;: &quot;05068e6a-a1cd-4ad5-b13c-fe4d2e914326&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/hibernate/orm/hibernate-core/6.5.2.Final/hibernate-core-6.5.2.Final-sources.jar!/org/hibernate/engine/jdbc/spi/SqlExceptionHelper.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/hibernate/orm/hibernate-core/6.5.2.Final/hibernate-core-6.5.2.Final-sources.jar!/org/hibernate/exception/GenericJDBCException.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hZys8dyRBqhym2AVYvFQs6KXOS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JUnit.ProductControllerTest.executor": "Run",
+    "JUnit.ProductServiceTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.AimsApplication.executor": "Run",
+    "git-widget-placeholder": "QuanPhuong/OrderAndCartService",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ISD.ICT.20232.16",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AimsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="aims" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.aims.AimsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="534c5967-3c3d-491e-ab20-5900c41a5035" name="Changes" comment="" />
+      <created>1717816097909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717816097909</updated>
+      <workItem from="1717816098963" duration="1280000" />
+      <workItem from="1717817410935" duration="165000" />
+      <workItem from="1717817599602" duration="2723000" />
+      <workItem from="1717820350908" duration="322000" />
+      <workItem from="1717820693680" duration="3399000" />
+      <workItem from="1718102421769" duration="593000" />
+      <workItem from="1718642988289" duration="863000" />
+      <workItem from="1718682600662" duration="6106000" />
+      <workItem from="1718731764403" duration="1642000" />
+      <workItem from="1718776793138" duration="9023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+.signup {
+   
+   margin: 2em 0 6rem;
+   form {
+      width: 60% !important;
+      margin: auto;
+      padding: 2rem;
+      background-color: black;
+      border-radius: 0.5rem;
+      color: white;
+   }
+
+   .signup__signin-link{
+      &:hover{
+         cursor: pointer;
+         opacity: 0.85;
+      }
+   }
+}

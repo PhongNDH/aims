@@ -1,0 +1,41 @@
+.home {
+   margin-top: 0rem;
+   padding: 0 4rem;
+
+   .home__heading {
+
+      .home__search-bar,
+      .home__filter-field,
+      .home__filter {
+         min-width: 25%;
+      }
+
+      .home__sort-type {
+         &:hover {
+            cursor: pointer;
+            opacity: 0.8;
+         }
+
+         &:active {
+            opacity: 0.6;
+         }
+      }
+
+   }
+
+   .home__pagination {
+      .page-item {
+         .page-link {
+            color: black;
+            border: 1px solid rgb(189, 189, 189);
+         }
+      }
+
+      .page-item.active {
+         .page-link {
+            border: 1px solid rgb(189, 189, 189);
+            background-color: rgb(206, 206, 206);
+         }
+      }
+   }
+}

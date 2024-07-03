@@ -1,0 +1,13 @@
+.footer {
+   background-color: var(--main-color);
+   color: black;
+
+   a {
+      text-decoration: none;
+      color: black;
+
+      &:hover {
+         border-bottom: 1px solid black;
+      }
+   }
+}

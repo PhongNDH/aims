@@ -1,0 +1,32 @@
+.payment {
+   margin-top: 2rem;
+
+   .payment__method-body {
+      margin-top: 2rem;
+      // box-shadow: 0 0 0.75rem var(--dark-green-color);
+      border: 1px solid var(--lime-green-color);
+
+      border-radius: 0.25rem;
+
+      .payment__method-type {
+         cursor: pointer;
+         border: 0.25px solid grey;
+      }
+
+      .payment__method-type-active {
+         background-color: var(--dark-green-color);
+         border: 1px solid black;
+         color: white;
+      }
+
+      .payment__method-first {
+         border-top-left-radius: 0.25rem;
+         border-top-right-radius: 0.25rem;
+      }
+
+      .payment__method-last {
+         border-bottom-left-radius: 0.25rem;
+         border-bottom-right-radius: 0.25rem;
+      }
+   }
+}

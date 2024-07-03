@@ -1,0 +1,43 @@
+.product-addition {
+   margin: 2rem auto 10rem auto;
+   width: 80%;
+   padding: 2rem;
+   border-radius: 0.5rem;
+   background-color: black;
+   color: white;
+
+   .product-addition__nav {
+      background-color: white;
+      border-radius: 1rem;
+      color: black;
+      border: 1px solid black;
+      p:nth-child(1){
+         border-top-left-radius: 1rem;
+         border-bottom-left-radius: 1rem;
+      }
+      p:nth-child(3){
+         border-top-right-radius: 1rem;
+         border-bottom-right-radius: 1rem;
+      }
+      p {
+         width: 10rem;
+         margin-bottom: 0;
+         text-align: center;
+         border: 1px solid black;
+         padding : 0.5rem;
+         &:hover {
+            cursor: pointer;
+            font-weight: bold;
+         }
+      }
+      p.active{
+         background-color: rgb(104, 104, 104);
+         color: white;
+         font-weight: 700;
+         &:hover{
+            cursor: default !important;
+            opacity: 1;
+         }
+      }
+   }
+}
